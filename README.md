@@ -51,3 +51,4 @@ Puxar as informações da página:
 
 Pegar os textos dos nós (ul) abaixo do h3 com o texto  "projeto de pesquisa".
 # banca_maker
+ tabela com professores : https://docs.google.com/spreadsheets/d/1s9ZUs9tqpjVqK9ANf3_WKNQi2APyUMYvRmLY0310Pcg/edit#gid=2012800266

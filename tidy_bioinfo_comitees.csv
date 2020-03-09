@@ -1,0 +1,403 @@
+,student,position,name
+0,Junier Marrero Gutierrez,president, Tie  Koide
+1,Junier Marrero Gutierrez,comitee, Cristina Elisa Alvarez Martinez
+2,Junier Marrero Gutierrez,comitee, Daniel Guariz Pinheiro
+3,Junier Marrero Gutierrez,comitee, José Freire da Silva Neto
+4,Caio Rafael do Nascimento Santiago,president, Luciano Antonio  Digiampietri
+5,Caio Rafael do Nascimento Santiago,comitee, Marcos Lordello Chaim
+6,Caio Rafael do Nascimento Santiago,comitee, João Eduardo Ferreira
+7,Suzane de Andrade Barboza,president, Luciano Antonio  Digiampietri
+8,Suzane de Andrade Barboza,comitee, Fábio Sarubbi Raposo do Amaral
+9,Suzane de Andrade Barboza,comitee, Ariane Machado Lima
+10,Suzane de Andrade Barboza,comitee, Julio Cezar Franco de Oliveira
+11,Juan Enrique Faya Castillo,president, Paulo Sérgio Lopes de  Oliveira
+12,Juan Enrique Faya Castillo,comitee, Celso Eduardo Benedetti
+13,Juan Enrique Faya Castillo,comitee, Silvana Giuliatti
+14,Juan Enrique Faya Castillo,comitee, Deborah Schechtman
+15,Felipe Prata Lima,president, João Carlos  Setubal
+16,Felipe Prata Lima,comitee, Welington Luiz de Araujo
+17,Felipe Prata Lima,comitee, Emmanuel Dias Neto
+18,Felipe Prata Lima,comitee, Ronaldo Fumio Hashimoto
+19,Felipe Prata Lima,comitee, Alessandro de Mello Varani
+20,Jean Michel Rocha Sampaio Leite,president, Julia Maria Pavan  Soler
+21,Jean Michel Rocha Sampaio Leite,comitee, Marilia dos Santos Andrade
+22,Jean Michel Rocha Sampaio Leite,comitee, Guilherme Giannini Artioli
+23,Jean Michel Rocha Sampaio Leite,comitee, Anatoli Iambartsev
+24,Natália Baptista Cruz,president, Helder Takashi Imoto  Nakaya
+25,Natália Baptista Cruz,comitee, Eduardo Moraes Rego Reis
+26,Natália Baptista Cruz,comitee, Eduardo Lani Volpe da Silveira
+27,Natália Baptista Cruz,comitee, Renato Pereira de Souza
+28,Liliane Santana Oliveira Kashiwabara,president, Arthur  Gruber
+29,Liliane Santana Oliveira Kashiwabara,comitee, André Carlos Ponce de Leon Ferreira de Carvalho
+30,Liliane Santana Oliveira Kashiwabara,comitee, Luciano Antonio Digiampietri
+31,Liliane Santana Oliveira Kashiwabara,comitee, Aristóteles Góes Neto
+32,Mariana Araújo Pereira,president, Helder Takashi Imoto  Nakaya
+33,Mariana Araújo Pereira,comitee, Sergio Verjovski de Almeida
+34,Mariana Araújo Pereira,comitee, Edison Luiz Durigon
+35,Mariana Araújo Pereira,comitee, Daniela Santoro Rosa
+36,Mina Cintho Ozahata,president, João Eduardo  Ferreira
+37,Mina Cintho Ozahata,comitee, César de Almeida Neto
+38,Mina Cintho Ozahata,comitee, Luciano Vieira de Araújo
+39,Mina Cintho Ozahata,comitee, Luciano Antonio Digiampietri
+40,Mina Cintho Ozahata,comitee, Diogo Meyer
+41,Pedro de Sa Tavares Russo,president, Helder Takashi Imoto  Nakaya
+42,Pedro de Sa Tavares Russo,comitee, Diego Mauricio Riaño Pachón
+43,Pedro de Sa Tavares Russo,comitee, Eduardo Moraes Rego Reis
+44,Pedro de Sa Tavares Russo,comitee, Ana Carolina Quirino Simões
+45,Omar Julio Sosa,president, Eduardo Moraes Rego  Reis
+46,Omar Julio Sosa,comitee, Helena Paula Brentani
+47,Omar Julio Sosa,comitee, Edna Teruko Kimura
+48,Omar Julio Sosa,comitee, Ana Cristina Victorino Krepischi
+49,Omar Julio Sosa,comitee, Israel Tojal da Silva
+50,Miriã Nunes Guimarães,president, Arthur  Gruber
+51,Miriã Nunes Guimarães,comitee, Edison Luiz Durigon
+52,Miriã Nunes Guimarães,comitee, Ronaldo Fumio Hashimoto
+53,Miriã Nunes Guimarães,comitee, Guilherme Corrêa de Oliveira
+54,Yagoub Ali Ibrahim Adam,president, Ricardo Zorzetto Nicoliello  Vencio
+55,Yagoub Ali Ibrahim Adam,comitee, Silvana Giuliatti
+56,Yagoub Ali Ibrahim Adam,comitee, Helder Takashi Imoto Nakaya
+57,Yagoub Ali Ibrahim Adam,comitee, Alexandre Rossi Paschoal
+58,Yagoub Ali Ibrahim Adam,comitee, Wilson Araújo da Silva Junior
+59,Andrew Maltez Thomas,president, João Carlos  Setubal
+60,Andrew Maltez Thomas,comitee, Christian Hoffmann
+61,Andrew Maltez Thomas,comitee, David Corrêa Martins Junior
+62,Andrew Maltez Thomas,comitee, Enrique Mario Boccardo Pierulivo
+63,Andrew Maltez Thomas,comitee, Nicola Segata
+64,Paula Prieto Oliveira,president, Ariane Machado  Lima
+65,Paula Prieto Oliveira,comitee, Ricardo José Giordano
+66,Paula Prieto Oliveira,comitee, Fátima de Lourdes dos Santos Nunes Marques
+67,Paula Prieto Oliveira,comitee, Mariana Maschietto
+68,Paula Prieto Oliveira,comitee, Israel Tojal da Silva
+69,E-mail,na, sítios de ligação para fatores de transcrição e região promotora de cana-de-açúcar Transcriptoma
+70,Guilherme Martins Crocetti,na,Halobacterium salinarum NRC-1: rede de regulação gênica e sua análise probabilística
+71,Denis Jacob Machado,president, Fernando Portella de Luna  Marques
+72,Denis Jacob Machado,comitee, Marcus Vinicius Domingues
+73,Denis Jacob Machado,comitee, Taran Grant
+74,Clebiano da Costa Sá,president, Ariane Machado  Lima
+75,Clebiano da Costa Sá,comitee, Ricardo Cerri
+76,Clebiano da Costa Sá,comitee, Ana Carolina Tahira
+77,José Geraldo de Carvalho Pereira,president, Paulo Sérgio Lopes de  Oliveira
+78,José Geraldo de Carvalho Pereira,comitee, André Luís Berteli Ambrósio
+79,José Geraldo de Carvalho Pereira,comitee, André Carlos Ponce de Leon Ferreira de Carvalho
+80,José Geraldo de Carvalho Pereira,comitee, Fernando Luis Barroso da Silva
+81,Vinícius Jardim Carvalho,president, Marcos Silveira  Buckeridge
+82,Vinícius Jardim Carvalho,comitee, André Carlos Ponce de Leon Ferreira de Carvalho
+83,Vinícius Jardim Carvalho,comitee, Helder Takashi Imoto Nakaya
+84,Vinícius Jardim Carvalho,comitee, Renato Vicentini dos Santos
+85,Ana Cláudia Martins Ciconelle,president, Julia Maria Pavan  Soler
+86,Ana Cláudia Martins Ciconelle,comitee, Benilton de Sá Carvalho
+87,Ana Cláudia Martins Ciconelle,comitee, Alexandre da Costa Pereira
+88,Amanda Rusiska Piovezani,president, Marcos Silveira  Buckeridge
+89,Amanda Rusiska Piovezani,comitee, Igor Cesarino
+90,Amanda Rusiska Piovezani,comitee, Ronaldo Fumio Hashimoto
+91,Amanda Rusiska Piovezani,comitee, Gabriel Rodrigues Alves Margarido
+92,Amanda Rusiska Piovezani,comitee, Milton Yutaka Nishiyama Junior
+93,Matheus Carvalho Bürger,president, Helder Takashi Imoto  Nakaya
+94,Matheus Carvalho Bürger,comitee, Ronaldo Fumio Hashimoto
+95,Matheus Carvalho Bürger,comitee, Eduardo Lani Volpe da Silveira
+96,Carlos Eduardo Madureira Trufen,president, Anatoli  Iambartsev
+97,Carlos Eduardo Madureira Trufen,comitee, Julia Maria Pavan Soler
+98,Carlos Eduardo Madureira Trufen,comitee, Flavia Vischi Winck
+99,Jaqueline Yu Ting Wang,president, Helder Takashi Imoto  Nakaya
+100,Jaqueline Yu Ting Wang,comitee, Helena Paula Brentani
+101,Jaqueline Yu Ting Wang,comitee, Maria Rita dos Santos e Passos Bueno
+102,Jaqueline Yu Ting Wang,comitee, Ana Carolina Tahira
+103,Jhonatas Sirino Monteiro,president, João Carlos  Setubal
+104,Jhonatas Sirino Monteiro,comitee, Denis Moledo de Souza Abessa
+105,Jhonatas Sirino Monteiro,comitee, Eduardo Moraes Rego Reis
+106,Jhonatas Sirino Monteiro,comitee, Israel Tojal da Silva
+107,Antonio Ferrão Neto,president, Ariane Machado  Lima
+108,Antonio Ferrão Neto,comitee, Luciano Antonio Digiampietri
+109,Antonio Ferrão Neto,comitee, Tatiana Teixeira Torres
+110,Ester Risério Matos Bertoldi,president, Eduardo Moraes Rego  Reis
+111,Ester Risério Matos Bertoldi,comitee, Suely Kazue Nagahashi Marie
+112,Ester Risério Matos Bertoldi,comitee, Márcio Katsumi Oikawa
+113,Cynthia Martins Villar Couto,president, Luciano da Fontoura  Costa
+114,Cynthia Martins Villar Couto,comitee, André Carlos Ponce de Leon Ferreira de Carvalho
+115,Cynthia Martins Villar Couto,comitee, Helder Takashi Imoto Nakaya
+116,Cynthia Martins Villar Couto,comitee, Sergio Furtado dos Reis
+117,Cynthia Martins Villar Couto,comitee, Jose Hiroki Saito
+118,Luiz Thibério Lira Diniz Rangel,president, João Carlos  Setubal
+119,Luiz Thibério Lira Diniz Rangel,comitee, Daniel José Galafasse Lahr
+120,Luiz Thibério Lira Diniz Rangel,comitee, Emanuel Maltempi de Souza
+121,Luiz Thibério Lira Diniz Rangel,comitee, Alessandro de Mello Varani
+122,Luiz Thibério Lira Diniz Rangel,comitee, Paolo Marinho de Andrade Zanotto
+123,Patrícia de Cássia Ruy,na,Identificação e análise in silico de ncRNAs empregando dados de RNA-seq em Leishmania
+124,George Willian Condomitti Epamino,president, João Carlos  Setubal
+125,George Willian Condomitti Epamino,comitee, Ronaldo Fumio Hashimoto
+126,George Willian Condomitti Epamino,comitee, Daniel Guariz Pinheiro
+127,Gianluca Major Machado da Silva,president, João Carlos  Setubal
+128,Gianluca Major Machado da Silva,comitee, André Fujita
+129,Gianluca Major Machado da Silva,comitee, Rodrigo Mendes
+130,Rodrigo Guarischi Mattos Amaral de Sousa,president, João Carlos  Setubal
+131,Rodrigo Guarischi Mattos Amaral de Sousa,comitee, Paul Christopher Boutros
+132,Rodrigo Guarischi Mattos Amaral de Sousa,comitee, Anamaria Aranha Camargo
+133,Rodrigo Guarischi Mattos Amaral de Sousa,comitee, Pedro Alexandre Favoretto Galante
+134,Rodrigo Guarischi Mattos Amaral de Sousa,comitee, Eduardo Moraes Rego Reis
+135,Pablo de Morais Andrade,president, Carlos Alberto de Braganca  Pereira
+136,Pablo de Morais Andrade,comitee, Helena Paula Brentani
+137,Pablo de Morais Andrade,comitee, Milton Yutaka Nishiyama Junior
+138,Pablo de Morais Andrade,comitee, João Carlos Setubal
+139,Pablo de Morais Andrade,comitee, Sergio Wechsler
+140,Lucas Ferreira da Silva,president, Sergio Verjovski de  Almeida
+141,Lucas Ferreira da Silva,comitee, Alexandre Bruni Cardoso
+142,Lucas Ferreira da Silva,comitee, André Fujita
+143,Lucas Ferreira da Silva,comitee, Helder Takashi Imoto Nakaya
+144,Lucas Ferreira da Silva,comitee, Francisco Prosdocimi de Castro Santos
+145,Sergio Alejandro Poveda Cuevas,president, Fernando Luis Barroso da  Silva
+146,Sergio Alejandro Poveda Cuevas,comitee, Leandro Ramos Souza Barbosa
+147,Sergio Alejandro Poveda Cuevas,comitee, Luciana Malavolta Quaglio
+148,Sergio Alejandro Poveda Cuevas,comitee, Jose Cesar Rosa
+149,Felipe ten Caten,president, Tie  Koide
+150,Felipe ten Caten,comitee, Angela Kaysel Cruz
+151,Felipe ten Caten,comitee, Marilis do Valle Marques
+152,Felipe ten Caten,comitee, Helder Takashi Imoto Nakaya
+153,Felipe ten Caten,comitee, Daniel Guariz Pinheiro
+154,Lariani Aparecida Delboni,president, Fernando Luis Barroso da  Silva
+155,Lariani Aparecida Delboni,comitee, Osvaldo de Freitas
+156,Lariani Aparecida Delboni,comitee, Luciana Malavolta Quaglio
+157,Bruno Ferreira de Souza,president, Sergio Verjovski de  Almeida
+158,Bruno Ferreira de Souza,comitee, André Yoshiaki Kashiwabara
+159,Bruno Ferreira de Souza,comitee, Helder Takashi Imoto Nakaya
+160,Gesiele Almeida Barros de Carvalho,president, Marie Anne van  Sluys
+161,Gesiele Almeida Barros de Carvalho,comitee, Mariangela Hungria da Cunha
+162,Gesiele Almeida Barros de Carvalho,comitee, André Fujita
+163,Gesiele Almeida Barros de Carvalho,comitee, Milton Yutaka Nishiyama Junior
+164,Gesiele Almeida Barros de Carvalho,comitee, Claudia Barros Monteiro Vitorello
+165,Deyvid Emanuel Amgarten,president, João Carlos  Setubal
+166,Deyvid Emanuel Amgarten,comitee, Armando Morais Ventura
+167,Deyvid Emanuel Amgarten,comitee, Paolo Marinho de Andrade Zanotto
+168,Juan Manuel Vidal Garcia,president, André  Fujita
+169,Juan Manuel Vidal Garcia,comitee, Benilton de Sá Carvalho
+170,Juan Manuel Vidal Garcia,comitee, Silvia Yumi Bando Takahara
+171,Diego Trindade de Souza,president, Sergio Russo  Matioli
+172,Diego Trindade de Souza,comitee, João Marcelo Pereira Alves
+173,Diego Trindade de Souza,comitee, Marcelo Ribeiro da Silva Briones
+174,Diego Trindade de Souza,comitee, Francisco Prosdocimi
+175,Diego Trindade de Souza,comitee, João Carlos Setubal
+176,Gabriela Der Agopian Guardia,president, Clever Ricardo Guareis de  Farias
+177,Gabriela Der Agopian Guardia,comitee, João Eduardo Ferreira
+178,Gabriela Der Agopian Guardia,comitee, Daniel Guariz Pinheiro
+179,Gabriela Der Agopian Guardia,comitee, Zila Luz Paulino Simoes
+180,Gabriela Der Agopian Guardia,comitee, Renato Tinós
+181,Luciana Farina Almansa,president, Alessandra Alaniz  Macedo
+182,Luciana Farina Almansa,comitee, Marcello Henrique Nogueira Barbosa
+183,Luciana Farina Almansa,comitee, Thiago Alexandre Salgueiro Pardo
+184,Diogo Vieira da Silva Pellegrina,president, Eduardo Moraes Rego  Reis
+185,Diogo Vieira da Silva Pellegrina,comitee, André Fujita
+186,Diogo Vieira da Silva Pellegrina,comitee, Daniel Guariz Pinheiro
+187,Fabricio Edgar de Moraes,president, Carlos Alberto  Labate
+188,Fabricio Edgar de Moraes,comitee, Helaine Carrer
+189,Fabricio Edgar de Moraes,comitee, Paulo Cavalcanti Gomes Ferreira
+190,Fabricio Edgar de Moraes,comitee, João Carlos Setubal
+191,Fabricio Edgar de Moraes,comitee, Guilherme Targino Valente
+192,Fabio Fernandes da Rocha Vicente,na,Integração de dados na inferência de redes de genes: avaliação de informações biológicas e características topológicas
+193,Marcos Abraão de Souza Fonseca,president, Ricardo Zorzetto Nicoliello  Vencio
+194,Marcos Abraão de Souza Fonseca,comitee, Angela Kaysel Cruz
+195,Marcos Abraão de Souza Fonseca,comitee, Georgios Joannis Pappas Junior
+196,Marcos Abraão de Souza Fonseca,comitee, Aline Maria da Silva
+197,Marcos Abraão de Souza Fonseca,comitee, Maria Emília Machado Telles Walter
+198,Felipe Augusto Nunes Ferraz,na,Caracterização de sítios conformacionais de fosforilação em proteínas
+199,Abner Cardoso Rodrigues Neto,na,Caracterização e modelagem da atividade eletrofisiológica em pacientes com epilepsia
+200,Yuri Ferretti,president, Joaquim Cezar  Felipe
+201,Yuri Ferretti,comitee, Ricardo Rodrigues Ciferri
+202,Yuri Ferretti,comitee, Geraldo Aleixo da Silva Passos Junior
+203,Gabriel Francisco Zaniboni,president, Eduardo Moraes Rego  Reis
+204,Gabriel Francisco Zaniboni,comitee, Helder Takashi Imoto Nakaya
+205,Gabriel Francisco Zaniboni,comitee, Marcelo da Silva Reis
+206,Lariza Laura de Oliveira,president, Renato  Tinós
+207,Lariza Laura de Oliveira,comitee, Marcelo Mendes Brandão
+208,Lariza Laura de Oliveira,comitee, Odemir Martinez Bruno
+209,Lariza Laura de Oliveira,comitee, André Carlos Ponce de Leon Ferreira de Carvalho
+210,Lariza Laura de Oliveira,comitee, Sergio Russo Matioli
+211,Rodrigo Vargas Honorato,president, Paulo Sérgio Lopes de  Oliveira
+212,Rodrigo Vargas Honorato,comitee, André Luís Berteli Ambrósio
+213,Rodrigo Vargas Honorato,comitee, Laurent Emmanuel Dardenne
+214,Rodrigo Vargas Honorato,comitee, Alexandre Cláudio Botazzo Delbem
+215,Rodrigo Vargas Honorato,comitee, Renato Tinós
+216,Gilson Vieira,president, Luiz Antonio  Baccala
+217,Gilson Vieira,comitee, Claudinei Eduardo Biazoli Junior
+218,Gilson Vieira,comitee, Ellison Fernando Cardoso
+219,Gilson Vieira,comitee, André Fujita
+220,Gilson Vieira,comitee, José Roberto Castilho Piqueira
+221,Livia Maria Silva Moura,na,Busca de variantes em sequência de DNA proveniente de pacientes com deficiência em processos de reparo do genoma
+222,Leandro Nascimento Lemos,president, João Carlos  Setubal
+223,Leandro Nascimento Lemos,comitee, Welington Luiz de Araujo
+224,Leandro Nascimento Lemos,comitee, Vivian Helena Pellizari
+225,Ricardo Cacheta Waldemarin,president, Clever Ricardo Guareis de  Farias
+226,Ricardo Cacheta Waldemarin,comitee, Maria Cristiane Barbosa Galvão
+227,Ricardo Cacheta Waldemarin,comitee, Renata Wassermann
+228,Andre Chalom Machado de Oliveira,president, Paulo Inácio de Knegt López de  Prado
+229,Andre Chalom Machado de Oliveira,comitee, Pedro Luis Bernardo da Rocha
+230,Andre Chalom Machado de Oliveira,comitee, Ricardo Zorzetto Nicoliello Vencio
+231,Deibs Barbosa,na,Análise computacional da variação do potencial metabólico microbiano em metagenomas
+232,Fernanda Orpinelli Ramos do Rego,president, João Carlos  Setubal
+233,Fernanda Orpinelli Ramos do Rego,comitee, Gabriel Rodrigues Alves Margarido
+234,Fernanda Orpinelli Ramos do Rego,comitee, Claudia Barros Monteiro Vitorello
+235,Leandro de Araujo Lima,president, Helena Paula  Brentani
+236,Leandro de Araujo Lima,comitee, Roberto Marcondes Cesar Junior
+237,Leandro de Araujo Lima,comitee, André Fujita
+238,Leandro de Araujo Lima,comitee, Suely Kazue Nagahashi Marie
+239,Leandro de Araujo Lima,comitee, Guilherme Vanoni Polanczyk
+240,Sérgio Nery Simões,na,Uma abordagem de integração de dados de redes PPI e expressão gênica para priorizar genes relacionados a doenças complexas
+241,Milton Yutaka Nishiyama Junior,president, Glaucia Mendes  Souza
+242,Milton Yutaka Nishiyama Junior,comitee, Luciano Vieira de Araújo
+243,Milton Yutaka Nishiyama Junior,comitee, Marcelo Mendes Brandão
+244,Milton Yutaka Nishiyama Junior,comitee, Luciano Antonio Digiampietri
+245,Milton Yutaka Nishiyama Junior,comitee, Diego Mauricio Riaño Pachón
+246,Ana Claudia Mancusi Valeije,president, Paulo Sérgio Lopes de  Oliveira
+247,Ana Claudia Mancusi Valeije,comitee, Richard Charles Garratt
+248,Ana Claudia Mancusi Valeije,comitee, Otavio Henrique Thiemann
+249,Caio César de Melo Freire,president, Paolo Marinho de Andrade  Zanotto
+250,Caio César de Melo Freire,comitee, Paulo Eduardo Brandão
+251,Caio César de Melo Freire,comitee, Sergio Russo Matioli
+252,Caio César de Melo Freire,comitee, Fábio Nakano
+253,Caio César de Melo Freire,comitee, Robson Francisco de Souza
+254,Karla Ferraz Néto,president, Evandro Eduardo Seron  Ruiz
+255,Karla Ferraz Néto,comitee, Helena Paula Brentani
+256,Karla Ferraz Néto,comitee, Alexandre Souto Martinez
+257,Mariana Yuri Sasazaki,president, Joaquim Cezar  Felipe
+258,Mariana Yuri Sasazaki,comitee, Fabricio Martins Lopes
+259,Mariana Yuri Sasazaki,comitee, Wilson Araújo da Silva Junior
+260,Fabio Albuquerque Marchi,na, transcriptômicos e epigenéticos de câncer de pênis Metodologia para integração de dados genômicos
+261,José Eduardo Kroll,president, Sandro José de  Souza
+262,José Eduardo Kroll,comitee, Helena Paula Brentani
+263,José Eduardo Kroll,comitee, Ariane Machado Lima
+264,José Eduardo Kroll,comitee, Bettina Malnic
+265,José Eduardo Kroll,comitee, Georgios Joannis Pappas Junior
+266,José Osório de Oliveira Azevedo Neto,president, Sergio Russo  Matioli
+267,José Osório de Oliveira Azevedo Neto,comitee, Helena Paula Brentani
+268,José Osório de Oliveira Azevedo Neto,comitee, Elida Paula Benquique Ojopi
+269,José Osório de Oliveira Azevedo Neto,comitee, Paulo Alberto Otto
+270,José Osório de Oliveira Azevedo Neto,comitee, Carlos Alberto de Braganca Pereira
+271,Danillo Cunha de Almeida e Silva,president, Ricardo Zorzetto Nicoliello  Vencio
+272,Danillo Cunha de Almeida e Silva,comitee, João Carlos Setubal
+273,Danillo Cunha de Almeida e Silva,comitee, Thiago Motta Venancio
+274,Marcio Branquinho Dutra,president, Alessandra Alaniz  Macedo
+275,Marcio Branquinho Dutra,comitee, Elza Helena Andrade Barbosa Durham
+276,Marcio Branquinho Dutra,comitee, Nina Sumiko Tomita Hirata
+277,Oscar Picchi Netto,president, José Augusto  Baranauskas
+278,Oscar Picchi Netto,comitee, Joaquim Cezar Felipe
+279,Oscar Picchi Netto,comitee, Wilson Araújo da Silva Junior
+280,Erica Akemi Tanaka,na,Uma adaptação do método Binary Relevance utilizando árvores de decisão para problemas de classificação multirrótulo aplicado à genômica funcional
+281,Thais Mayumi Oshiro,na,Uma abordagem para a construção de uma única árvore a partir de uma Random Forest para classificação de bases de expressão gênica
+282,Fernando Domingues Kümmel Tria,president, Aline Maria da  Silva
+283,Fernando Domingues Kümmel Tria,comitee, Jose Miguel Ortega
+284,Fernando Domingues Kümmel Tria,comitee, João Carlos Setubal
+285,Newton Shydeo Brandão Miyoshi,president, Paulo Mazzoncini de Azevedo  Marques
+286,Newton Shydeo Brandão Miyoshi,comitee, Silvana Giuliatti
+287,Newton Shydeo Brandão Miyoshi,comitee, Domingos Alves
+288,Newton Shydeo Brandão Miyoshi,comitee, Marcos Aurelio Martins Ribeiro
+289,Newton Shydeo Brandão Miyoshi,comitee, Juliana Pereira de Souza Zinader
+290,Melline Fontes Noronha,president, Ronaldo Fumio  Hashimoto
+291,Melline Fontes Noronha,comitee, Marcos Silveira Buckeridge
+292,Melline Fontes Noronha,comitee, Luiz Carlos da Silva Rozante
+293,Luís Henrique Uchida Ishivatari,na,Função de avaliação dinâmica em algoritmos genéticos aplicados na predição de estruturas tridimensionais de proteínas
+294,Helder Ken Shimo,president, Renato  Tinós
+295,Helder Ken Shimo,comitee, Paulo Sérgio Lopes de Oliveira
+296,Helder Ken Shimo,comitee, Fernando José von Zuben
+297,Fernanda Nascimento Almeida,president, Ester Cerdeira  Sabino
+298,Fernanda Nascimento Almeida,comitee, Luciano Vieira de Araújo
+299,Fernanda Nascimento Almeida,comitee, Luciano Antonio Digiampietri
+300,Fernanda Nascimento Almeida,comitee, Sandra Fatima Menosi Gualandro
+301,Fernanda Nascimento Almeida,comitee, Anna Bárbara de Freitas Carneiro Proietti
+302,Pedro Santoro Perez,president, José Augusto  Baranauskas
+303,Pedro Santoro Perez,comitee, Fabricio Martins Lopes
+304,Pedro Santoro Perez,comitee, Renato Tinós
+305,Alexandre Rossi Paschoal,president, Alan Mitchell  Durham
+306,Alexandre Rossi Paschoal,comitee, Ivan Gesteira Costa Filho
+307,Alexandre Rossi Paschoal,comitee, André Fujita
+308,Alexandre Rossi Paschoal,comitee, Tiago Campos Pereira
+309,Alexandre Rossi Paschoal,comitee, Claudia Barros Monteiro Vitorello
+310,Bruna Renata Silva Corrêa,na,Análise computacional do genoma e transcritoma de Plasmodium vivax: contribuições da bioinformática para o estudo da malária
+311,Flavia Akemi Miyazaki,president, Clever Ricardo Guareis de  Farias
+312,Flavia Akemi Miyazaki,comitee, Angela Kaysel Cruz
+313,Flavia Akemi Miyazaki,comitee, Agma Juci Machado Traina
+314,Juliana Tarossi Pollettini,president, Antonio  Pazin Filho
+315,Juliana Tarossi Pollettini,comitee, Jorge Elias Júnior
+316,Juliana Tarossi Pollettini,comitee, Zhao Liang
+317,Juliana Tarossi Pollettini,comitee, Paulo Mazzoncini de Azevedo Marques
+318,Juliana Tarossi Pollettini,comitee, Augusto Scalabrini Neto
+319,Gisele Helena Barboni Miranda,na,Spatially explicit modeling on networks: understanding patterns & describing processes
+320,Vitor Hugo Louzada Patricio,president, Ronaldo Fumio  Hashimoto
+321,Vitor Hugo Louzada Patricio,comitee, Tie Koide
+322,Vitor Hugo Louzada Patricio,comitee, Ney Lemke
+323,Artur Trancoso Lopo de Queiróz,president, Sergio Russo  Matioli
+324,Artur Trancoso Lopo de Queiróz,comitee, Luciano Vieira de Araújo
+325,Artur Trancoso Lopo de Queiróz,comitee, Flora Maria de Campos Fernandes
+326,Artur Trancoso Lopo de Queiróz,comitee, Marcelo de Souza Lauretto
+327,Artur Trancoso Lopo de Queiróz,comitee, Camila Malta Romano
+328,Carlos Stein Naves de Brito,president, Koichi  Sameshima
+329,Carlos Stein Naves de Brito,comitee, Edson Amaro Júnior
+330,Carlos Stein Naves de Brito,comitee, Ricardo Zorzetto Nicoliello Vencio
+331,Marcio Augusto Afonso de Almeida,president, Paulo Sérgio Lopes de  Oliveira
+332,Marcio Augusto Afonso de Almeida,comitee, Emmanuel Dias Neto
+333,Marcio Augusto Afonso de Almeida,comitee, Pedro Edson Moreira Guimarães
+334,Marcio Augusto Afonso de Almeida,comitee, Eduardo Jordao Neves
+335,Marcio Augusto Afonso de Almeida,comitee, Julia Maria Pavan Soler
+336,Mauricio Egidio Cantão,president, João Eduardo  Ferreira
+337,Mauricio Egidio Cantão,comitee, Helaine Carrer
+338,Mauricio Egidio Cantão,comitee, Ricardo Rodrigues Ciferri
+339,Mauricio Egidio Cantão,comitee, Duncan Dubugras Alcoba Ruiz
+340,Mauricio Egidio Cantão,comitee, Ana Tereza Ribeiro de Vasconcelos
+341,Ana Carolina Quirino Simões,na, gerenciamento e análise de dados de microarranjos de DNA para identificação de biomarcadores de diagnóstico e prognóstico de cânceres humanos Planejamento
+342,Daniel Yasumasa Takahashi,na,Medidas de fluxo de informação com aplicação em neurociência
+343,Tiago José Paschoal Sobreira,na,Análise da via de regulação gênica por ácido retinóico: uma abordagem por bioinformática e biologia estrutural
+344,Jorge Estefano Santana de Souza,president, Sandro José de  Souza
+345,Jorge Estefano Santana de Souza,comitee, Dirce Maria Carraro
+346,Jorge Estefano Santana de Souza,comitee, Diogo Meyer
+347,Jorge Estefano Santana de Souza,comitee, Aline Maria da Silva
+348,Jorge Estefano Santana de Souza,comitee, Ariane Machado Lima
+349,Rafael Carvalho de Oliveira,na,Morfometria computacional de órgãos de frangos de corte submetidos a duas dietas distintas: suplementação mineral quelada versus suplementação mineral tradicional
+350,Leonardo Varuzza,president, Carlos Alberto de Bragança  Pereira
+351,Leonardo Varuzza,comitee, Heleno Bolfarine
+352,Leonardo Varuzza,comitee, Zanoni Diaz
+353,Leonardo Varuzza,comitee, Paulo Sérgio Lopes de Oliveira
+354,Leonardo Varuzza,comitee, Eloísa Helena Tajara da Silva
+355,Ricardo Cesar Corrêa,president, Luciano Vieira de  Araújo
+356,Ricardo Cesar Corrêa,comitee, Fátima de Lourdes dos Santos Nunes Marques
+357,Ricardo Cesar Corrêa,comitee, Márcio Katsumi Oikawa
+358,Ricardo Cesar Corrêa,comitee, Ivan Torres Pisa
+359,Marcelo Ris,president, Junior  Barrera
+360,Marcelo Ris,comitee, Roberto Marcondes Cesar Junior
+361,Marcelo Ris,comitee, Roger Chammas
+362,Marcelo Ris,comitee, Alexandre Xavier Falcão
+363,Marcelo Ris,comitee, Maria Aparecida Azevedo Koike Folgueira
+364,Thiago Motta Venancio,president, Sergio Verjovski de  Almeida
+365,Thiago Motta Venancio,comitee, Alan Mitchell Durham
+366,Thiago Motta Venancio,comitee, Glória Regina Franco
+367,Thiago Motta Venancio,comitee, Arthur Gruber
+368,Thiago Motta Venancio,comitee, Georgios Joannis Pappas Junior
+369,Bruno Augusto Nassif Travençolo,president, Luciano da Fontoura  Costa
+370,Bruno Augusto Nassif Travençolo,comitee, Aparecido Nilceu Marana
+371,Bruno Augusto Nassif Travençolo,comitee, Nance Beyer Nardi
+372,Bruno Augusto Nassif Travençolo,comitee, Gonzalo Travieso
+373,Bruno Augusto Nassif Travençolo,comitee, Lucile Maria Floeter Winter
+374,Elza Helena Andrade Barbosa Durham,na,Bioinformática estrutural de proteínas modificadas por eventos de splicing alternativo
+375,André Pierro de Camargo,president, Marcelo de Souza  Lauretto
+376,André Pierro de Camargo,comitee, Delhi Teresa Paiva Salinas
+377,André Pierro de Camargo,comitee, Julio Michael Stern
+378,Nestor Walter Trepode,na,Modelagem do controle gênico do ciclo celular por redes genéticas probabilísticas.
+379,Fabio Passetti,na,Implicações funcionais de eventos de splicing alternativo no proteoma humano
+380,Gustavo Henrique Esteves,president, Eduardo Jordao  Neves
+381,Gustavo Henrique Esteves,comitee, Sergio Verjovski de Almeida
+382,Gustavo Henrique Esteves,comitee, Roberto Marcondes Cesar Junior
+383,Gustavo Henrique Esteves,comitee, Nancy Lopes Garcia
+384,Gustavo Henrique Esteves,comitee, Luiz Roberto Nunes
+385,Bruno Monte de Castro,president, Florencia Graciela  Leonardi
+386,Bruno Monte de Castro,comitee, Jesús Enrique García
+387,Bruno Monte de Castro,comitee, Anatoli Iambartsev
+388,Cesar Armando Beltran Castañon,president, Arthur  Gruber
+389,Cesar Armando Beltran Castañon,comitee, Odemir Martinez Bruno
+390,Cesar Armando Beltran Castañon,comitee, Marcelo Urbano Ferreira
+391,Cesar Armando Beltran Castañon,comitee, Nina Sumiko Tomita Hirata
+392,Cesar Armando Beltran Castañon,comitee, Roberto de Alencar Lotufo
+393,Bruno Sanchez de Araujo,president, Ariane  Machado-Lima
+394,Bruno Sanchez de Araujo,comitee, David Corrêa Martins Junior
+395,Bruno Sanchez de Araujo,comitee, Ivandre Paraboni
+396,Bruno Sanchez de Araujo,comitee, Rogerio Lopes Salvini
+397,Fábio Nakano,president, Carlos Alberto de Braganca  Pereira
+398,Fábio Nakano,comitee, Jorge Alberto Achcar
+399,Fábio Nakano,comitee, Fabio Gagliardi Cozman
+400,Fábio Nakano,comitee, Louis Bernard Klaczko
+401,Fábio Nakano,comitee, Paulo Alberto Otto

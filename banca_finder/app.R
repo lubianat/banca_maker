@@ -13,10 +13,10 @@ library(dplyr)
 
 df = fread("tidy_bioinfo_comitees.csv",header = T)
 students = as.data.frame(unique(df[,"student"]))
-students = students[,1]
+students = sort(students[,1])
 
 presidents = df %>% filter(position == "president") 
-presidents = unique(presidents[,"name"])
+presidents = sort(unique(presidents[,"name"]))
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(

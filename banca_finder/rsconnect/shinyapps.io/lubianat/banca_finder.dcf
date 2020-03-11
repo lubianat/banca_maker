@@ -5,8 +5,8 @@ account: lubianat
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1934913
-bundleId: 2871845
+bundleId: 2872074
 url: https://lubianat.shinyapps.io/banca_finder/
-when: 1583941852.83746
+when: 1583945098.39636
 asMultiple: FALSE
 asStatic: FALSE

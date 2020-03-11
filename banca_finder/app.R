@@ -32,10 +32,15 @@ ui <- fluidPage(
                      choiceValues = NULL),
          selectizeInput("student",
                      "Student:",
-                     choices = students),
+                     choices = students,
+                     options = list(placeholder = 'Please select an option below',
+                      onInitialize = I('function() { this.setValue(""); }'))
+                    ),
         selectizeInput("president",
                        "Presidents:",
-                       choices = presidents)
+                       choices = presidents,
+                       options = list(placeholder = 'Please select an option below',
+                                      onInitialize = I('function() { this.setValue(""); }')))
       ),
       
       # Show a plot of the generated distribution

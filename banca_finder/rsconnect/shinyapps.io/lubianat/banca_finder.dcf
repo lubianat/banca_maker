@@ -1,0 +1,12 @@
+name: banca_finder
+title: banca_finder
+username:
+account: lubianat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1934913
+bundleId: 2871845
+url: https://lubianat.shinyapps.io/banca_finder/
+when: 1583941852.83746
+asMultiple: FALSE
+asStatic: FALSE
